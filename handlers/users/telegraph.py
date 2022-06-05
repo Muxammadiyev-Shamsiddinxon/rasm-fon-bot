@@ -10,5 +10,7 @@ async def photo_handler(msg: types.Message):
     link = await photo_link(photo)
     await msg.answer(link)
     new_photo = await remove_background(link)
+
+    await msg.reply("tez orada nosozlik tuzatiladi")
     await msg.reply_document(document=new_photo, caption="Fayl")
     await msg.reply_photo(new_photo, caption="Rasm")
