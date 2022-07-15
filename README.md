@@ -1,2 +1,4 @@
-# rasm-fon-bot
-bu bot rasmni orqa fonini olib tashlaydi   @rasm_fon_bot
+# @imloxatolar_bot 
+
+Siz istalgan so'z (lotincha yoki kirillcha farqi yo'q) yuboring, 
+O'zbek imlo qoidasiga to'g'riligini tekshirib beradi
